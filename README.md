@@ -39,10 +39,6 @@ Et voilà, vous pouvez voir notre site !
 
 :pray: Indulgence required, we did our best :smile:
 
-## Améliorations possibles :
-Si nous aurions eu plus de temps, nous aurions pu améliorer grandement la stratégie acquisition et la déployer via d'autres réseaux comme Instagram, Facebook, avoir plus de cibles sur Twitter, contacter par mail les organismes d'orientation/lycées....
-
-
 ## Construit avec  :
 
 * Atom
