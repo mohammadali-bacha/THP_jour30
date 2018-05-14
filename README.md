@@ -29,7 +29,7 @@ Et voilà, vous pouvez voir notre site !
 
 2. Les tests
 
-- [ ] 2.1. Les tests de modèle
+- [x] 2.1. Les tests de modèle
 - [ ] 2.2. Tester les views
 - [ ] 2.3. Implémentation d'une nouvelle feature
 - [ ] 2.3.1. La feature
