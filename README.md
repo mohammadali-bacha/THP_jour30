@@ -1,24 +1,65 @@
-# README
+### lien heroku: https://?????-????-??.herokuapp.com/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Introduction
 
-Things you may want to cover:
+Nous avons divisé le projet du jour plusieurs étapes :
+1. Landing page : 
+2. Call To action : 
+3. Acquisition : 
+4. Analyse des metrics : 
+5. Le rendu :
 
-* Ruby version
+## Organisation
 
-* System dependencies
+* Mohammad-ALi et Hugo --> 
+* David et Odyssey -->   
+* Tout le monde -->   
 
-* Configuration
+## How it works ?
 
-* Database creation
+Pour faire tourner tous les fichiers, il est nécessaire d'installer plusieurs gems.
+Pour cela, rien de plus simple : une fois le dossier cloné sur l'ordinateur,
 
-* Database initialization
+```$ git clone https://github.com/mohammadali-bacha/THP_jour30```
 
-* How to run the test suite
+il suffit d'accéder au dossier et de faire :
 
-* Services (job queues, cache servers, search engines, etc.)
+```$ rails s```
 
-* Deployment instructions
+Et voilà, vous pouvez voir notre site !
 
-* ...
+
+## Petit Bilan :
+
+- [x] 
+- [x] 
+- [x] 
+- [x] 
+- [ ] 
+
+:pray: Indulgence required, we did our best :smile:
+
+## Améliorations possibles :
+Si nous aurions eu plus de temps, nous aurions pu améliorer grandement la stratégie acquisition et la déployer via d'autres réseaux comme Instagram, Facebook, avoir plus de cibles sur Twitter, contacter par mail les organismes d'orientation/lycées....
+
+
+## Construit avec  :
+
+* Atom
+* et la super team #elonmuskrew
+
+## La Team :heart: **_ Hugo & David & Odyssey & Mohammad-Ali _** :
+
+## Contributors with peer-learning : :love_letter:
+
+* Mohammad-Ali: https://github.com/mohammadali-bacha
+* Odssey: https://github.com/Odssey
+* oseus: https://github.com/oseus
+* Hug-O: https://github.com/Hug-O
+
+## Slack des contributeurs :
+
+* Mohammad-Ali : @Mohammad-Ali
+* Odyssée Levine : @Odyssée Levine
+* David Coat : @Coat David
+* Hugo : @Hugo
